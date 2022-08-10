@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = raisa.tarase@gmail.com
+	name = Raisa Tarase
